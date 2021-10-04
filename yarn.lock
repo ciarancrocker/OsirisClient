@@ -6508,6 +6508,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"extend@npm:^3.0.2":
+  version: 3.0.2
+  resolution: "extend@npm:3.0.2"
+  checksum: a50a8309ca65ea5d426382ff09f33586527882cf532931cb08ca786ea3146c0553310bda688710ff61d7668eba9f96b923fe1420cdf56a2c3eaf30fcab87b515
+  languageName: node
+  linkType: hard
+
 "extglob@npm:^2.0.4":
   version: 2.0.4
   resolution: "extglob@npm:2.0.4"
@@ -10451,6 +10458,7 @@ fsevents@^1.2.7:
   resolution: "osiris-client@workspace:."
   dependencies:
     d3-scale: ^4.0.2
+    extend: ^3.0.2
     mini-signals: ^1.2.0
     react: ^17.0.2
     react-dom: ^17.0.2

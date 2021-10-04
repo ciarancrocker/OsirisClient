@@ -1,1 +1,1 @@
-export const API_URL = 'https://seating-api.sugaming.co.uk';
+export const API_URL = 'https://sgs-seatpicker.herokuapp.com';
