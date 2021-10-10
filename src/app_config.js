@@ -1,1 +1,1 @@
-export const API_URL = 'http://localhost:5143';
+export const API_URL = 'https://sgs-seatpicker.herokuapp.com';
