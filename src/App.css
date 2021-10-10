@@ -132,6 +132,24 @@ circle.unpickable {
   fill: grey;
 }
 
+circle.mine {
+  fill: purple;
+}
+
+circle.selected {
+  animation: 1s infinite alternate circleSelected;
+}
+
+@keyframes circleSelected {
+  from {
+    stroke-width: 1;
+  }
+
+  to {
+    stroke-width: 2.5;
+  }
+}
+
 .osirisSeatView {
   width: 256px;
   background-color: #f2f2f2;
