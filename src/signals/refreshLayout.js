@@ -1,3 +1,5 @@
 import MiniSignal from 'mini-signals';
 
-export default new MiniSignal();
+const signal = new MiniSignal();
+
+export default signal;

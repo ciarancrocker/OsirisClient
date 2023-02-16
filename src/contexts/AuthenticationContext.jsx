@@ -1,5 +1,4 @@
-import { createContext, useContext } from "react";
-import { useEffect, useState } from "react/cjs/react.development";
+import { createContext, useContext, useEffect, useState } from "react";
 import { API_URL } from "../app_config";
 
 import { openAuthenticationPopup, listenForAuthentication } from "../util/popupUtils";
